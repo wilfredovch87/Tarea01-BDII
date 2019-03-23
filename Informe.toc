@@ -1,0 +1,4 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Paradigma No 02 \IeC {\textendash } Programaci\IeC {\'o}n Orientada a Objetos}{1}% 
+\contentsline {section}{\numberline {2}Paradigma No 03 \IeC {\textendash } Programaci\IeC {\'o}n L\IeC {\'o}gico}{6}% 
+\contentsline {section}{\numberline {3}Paradigma No 04 \IeC {\textendash } Programacion Funcional}{6}% 
